@@ -58,4 +58,10 @@ header .image-text .header-text{
   top: 50%;
   left: -25px;
   transform: translateY(-50%);
+  height: 25px;
+  width: 25px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 50%;
 }
